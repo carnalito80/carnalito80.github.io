@@ -1,0 +1,275 @@
+#u7860-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u7861,#u10452,#u10453
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10454-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10453:hover #u10454-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10453:active #u10454-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10459,#u10462
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10465-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10453.MuseMenuActive #u10454-4 p,#u10462:hover #u10465-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10462:active #u10465-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10480,#u10481
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10484-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10462.MuseMenuActive #u10465-4 p,#u10481:hover #u10484-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10481:active #u10484-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10445,#u10446
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10447-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10481.MuseMenuActive #u10484-4 p,#u10446:hover #u10447-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10446:active #u10447-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10466,#u10467
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10470-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10446.MuseMenuActive #u10447-4 p,#u10467:hover #u10470-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10467:active #u10470-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10473,#u10476
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10478-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10467.MuseMenuActive #u10470-4 p,#u10476:hover #u10478-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10476:active #u10478-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10476.MuseMenuActive #u10478-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u7859,#u7867
+{
+	background-color: #000000;
+}
+
+#menuu10444,#u10175,#u7923,#u7907,#u7911,#u7909
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u333
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7904-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u93-5
+{
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	position: relative;
+}
+
+#u7905,#u7921
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u7859_align_to_page,#u7867_align_to_page,#u7922
+{
+	position: relative;
+}
+
+
+/*
+     FILE ARCHIVED ON 20:59:18 Mar 20, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:30:16 Jan 24, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 340.803 (3)
+  esindex: 0.005
+  captures_list: 357.707
+  CDXLines.iter: 12.177 (3)
+  PetaboxLoader3.datanode: 119.623 (4)
+  exclusion.robots: 0.228
+  exclusion.robots.policy: 0.212
+  RedisCDXSource: 2.166
+  PetaboxLoader3.resolve: 273.293 (3)
+  load_resource: 66.877
+*/

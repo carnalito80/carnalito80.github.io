@@ -1,0 +1,240 @@
+#u8197
+{
+	background-color: #000000;
+}
+
+#u8197_align_to_page
+{
+	position: relative;
+}
+
+#u8198-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	position: relative;
+}
+
+#menuu10342
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u8199,#u10350,#u10351
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10352-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10351:hover #u10352-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10351:active #u10352-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10357,#u10360
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10363-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10351.MuseMenuActive #u10352-4 p,#u10360:hover #u10363-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10360:active #u10363-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10378,#u10379
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10382-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10360.MuseMenuActive #u10363-4 p,#u10379:hover #u10382-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10379:active #u10382-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10343,#u10344
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10345-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10379.MuseMenuActive #u10382-4 p,#u10344:hover #u10345-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10344:active #u10345-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10364,#u10365
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10368-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10344.MuseMenuActive #u10345-4 p,#u10365:hover #u10368-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10365:active #u10368-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10371,#u10374
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10376-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: antic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u10365.MuseMenuActive #u10368-4 p,#u10374:hover #u10376-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+#u10374:active #u10376-4 p
+{
+	color: #B56100;
+	visibility: inherit;
+}
+
+#u10374.MuseMenuActive #u10376-4 p
+{
+	color: #D29A05;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+
+/*
+     FILE ARCHIVED ON 17:53:11 May 12, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:32:24 Jan 24, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 64.884 (3)
+  esindex: 0.014
+  captures_list: 86.894
+  CDXLines.iter: 15.421 (3)
+  PetaboxLoader3.datanode: 89.223 (4)
+  exclusion.robots: 0.278
+  exclusion.robots.policy: 0.256
+  RedisCDXSource: 1.868
+  PetaboxLoader3.resolve: 113.137
+  load_resource: 151.869
+*/
